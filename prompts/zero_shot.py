@@ -13,7 +13,7 @@ Format the output as a JSON object with the following structure:
                 {{"key": "C", "value": "Option 3"}},
                 {{"key": "D", "value": "Option 4"}}
             ],
-            "answer": "A"
+            "answer": "B"
         }},
         ...
     ]
